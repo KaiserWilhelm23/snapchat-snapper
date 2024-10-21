@@ -1,5 +1,7 @@
 # snapchat-snapper
 
+Windows only for now, but if you have Python installed on Linux and Mac it should work from the script.
+
 
 Snapchat Web Snapper is a desktop application that allows users to take screenshots of their Snapchat chats from the web interface. This application uses PyQt6 and the QWebEngineView to provide a user-friendly browsing experience while enabling the screenshot functionality.
 Features
