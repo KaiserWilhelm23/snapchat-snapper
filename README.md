@@ -34,19 +34,15 @@ Run the application:
 
     python snapchat_snapper.py
 
-Downloading the Executable
+# Downloading the Executable
 
 If you prefer not to download and set up Python, you can download the V1.0 executable release from the releases page. Simply download the EXE file and run it to start using Snapchat Web Snapper without the need for Python installation.
-Usage
+
+# Usage
 
   Launch the application.
   Navigate to your desired chat within Snapchat Web.
   Click the "Screenshot" button in the toolbar to capture the current view of the chat.
   Choose a location to save your screenshot in PNG format.
 
-Note
 
-Ensure that you follow Snapchat's terms of service and privacy policies when using this application.
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
